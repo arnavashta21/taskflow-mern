@@ -4,7 +4,7 @@
 
 A full-stack team task management application with role-based access control, Kanban boards, real-time progress tracking, and collaborative workflows.
 
-**[🌐 Live Demo]([https://your-frontend.railway.app](https://taskflow-frontend-production-6a65.up.railway.app))** · **[🎥 Demo Video](#)**
+**[🌐 Live Demo]([https://your-frontend.railway.app](https://taskflow-frontend-production-6a65.up.railway.app))** · **[🎥 Demo Video](#)** ·
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=flat&logo=mongodb&logoColor=white)
